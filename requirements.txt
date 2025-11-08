@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+openai
+boto3
+faiss-cpu
+PyPDF2
+python-dotenv
